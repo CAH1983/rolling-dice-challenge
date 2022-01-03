@@ -1,4 +1,24 @@
 /* Dice */
+
+.Dice {
+  margin: 3em 2em;
+}
+
+.Dice-icon-wrapper {
+  position: relative;
+  width: 90px;
+  height: 90px;
+  background-color: white;
+}
+
+/* icon only */
 .Dice-icon-wrapper > i {
   font-size: 120px;
+  background: -webkit-linear-gradient(rgb(135, 164, 228), rgb(79, 81, 206));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  position: absolute;
+  top: -15px;
+  left: -4px;
+  text-align: center;
 }

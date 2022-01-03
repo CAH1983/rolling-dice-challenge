@@ -6,7 +6,7 @@ class Dice extends Component {
     return (
       <div className="Dice">
         <div className="Dice-icon-wrapper">
-          <i className="fas fa-dice-one"></i>
+          <i className={`fas fa-dice-${this.props.number}`}></i>
         </div>
       </div>
     );
