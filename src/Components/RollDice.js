@@ -18,6 +18,7 @@ class RollDice extends Component {
     const randomNum = numbersArr[Math.floor(Math.random() * numbersArr.length)];
     const randomNum2 =
       numbersArr[Math.floor(Math.random() * numbersArr.length)];
+
     this.setState({ currNum: randomNum, currNum2: randomNum2 });
   }
 
