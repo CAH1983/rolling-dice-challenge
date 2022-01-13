@@ -12,3 +12,4 @@ when the user clicks on the button:
 - Extra features :
   - adding shaking animation lasting 1 second
   - disable the action button whenever the dices are rolling.
+  - Modify the button text while rolling
