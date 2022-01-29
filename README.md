@@ -1,7 +1,7 @@
 # Colt Steele challenge - Create a dice rolling (mini) app
 
-![homepage]('https://github.com/CAH1983/rolling-dice-challenge/blob/main/public/Images/homepage.png')
 The goal is to use props, state with class components in ReactJS
+![homepage](https://user-images.githubusercontent.com/41584108/151677813-af8b9c7e-cf9a-473e-b887-761cd5d3a7ae.png)
 
 **Features:**
 
